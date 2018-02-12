@@ -1,4 +1,4 @@
-// Bidding Optimization
+// Bidding Optimization - DashHound Ready
 
 // Select Current Account
 // Select current running campaign
